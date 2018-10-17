@@ -9,6 +9,7 @@ StartupNotify=true
 Categories=GNOME;GTK;System;
 OnlyShowIn=GNOME;
 NoDisplay=true
+X-GNOME-Autostart-Delay=3
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=gnome-initial-setup
 X-GNOME-Bugzilla-Component=general
